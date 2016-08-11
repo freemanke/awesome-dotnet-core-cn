@@ -9,7 +9,14 @@
 - [dotnet@github](https://github.com/dotnet)
 - [aspnet@github](https://github.com/aspnet)
 
-## 开源组件
+## 开发环境配置
+
+- [Windows 开发环境配置](https://www.microsoft.com/net/core#windows)
+- [Ubuntu 开发环境配置](https://www.microsoft.com/net/core#ubuntu)
+- [MacOS 开发环境配置](https://www.microsoft.com/net/core#macos)
+- [微软官方 dotnet core 容器](https://www.microsoft.com/net/core#docker)
+
+## 开源组件(持续更新)
 
 - [AutoMapper](http://automapper.org/)
 - [Dapper](https://github.com/StackExchange/dapper-dot-net)
@@ -22,9 +29,4 @@
 - [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet)
 - [Orchard2](https://github.com/OrchardCMS/Orchard2)
 - [Json.net](https://github.com/JamesNK/Newtonsoft.Json)
-
-## 微软官方容器
-
-[Microsoft/dotnet](https://hub.docker.com/r/microsoft/dotnet/)
-
 
